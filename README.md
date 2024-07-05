@@ -1,11 +1,7 @@
-# Miki
-Miki(Mipro-wiki)へようこそ！  
-ここでは、開発に必要なスキルやミップロのワークフローを記録していきます。
-
-
-<details><summary>AWS関連</summary>
-
-- [EC2入門](./docs/AWS関連/EC2入門.md)
-- [RDS入門]
-
-</details>
+# miki
+これは、Miki(Mipro Wiki)のためのリポジトリです。  
+Mikiを編集したい場合は、以下のコマンドで`miki.wiki`をクローンしてください。  
+```powershell
+git clone https://github.com/team-mipro/miki.wiki.git
+```
+Mikiの編集時は、Home画面のガイダンスに従ってください。
