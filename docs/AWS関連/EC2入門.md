@@ -7,7 +7,7 @@ EC2についてさらっと理解した気になって心理的ハードルを�
 参考： [【2022年版】Amazon EC2 まとめ](https://qiita.com/c60evaporator/items/06aa523c470d52782c7b)  
 用語解説の注釈にはChatGPT 4oを使用しています。
 
-## Amazon EC2とは
+> ## Amazon EC2とは
 
 Amazon EC2 (Amazon Elastic Compute Cloud)は、AWSが提供するクラウド上でOS付きの仮想マシン（VM）を作成できるサービス。インターネット上に自分専用のパソコン（サーバ）を立ち上げるような感覚で利用できる。
 
