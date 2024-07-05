@@ -13,7 +13,7 @@ Amazon EC2 (Amazon Elastic Compute Cloud)は、AWSが提供するクラウド上
 
 EC2は、**IaaS (Infrastructure as a Service)** に分類されるサービスで、インフラストラクチャをクラウド上で提供する。IaaSの中でも最も有名で広く用いられており、AWSの主要サービスの一つ。
 
-<div style="background-color: #e0e0e0; padding: 10px; border-radius: 20px;">
+<div style="color: #666; border: 1px solid #ccc; padding: 10px;">
 <details><summary>IaaSとは？</summary>
 
 ## IaaSとは？
